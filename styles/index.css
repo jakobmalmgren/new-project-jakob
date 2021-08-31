@@ -1,0 +1,29 @@
+h1 {
+  color: black;
+  font-size:35px;
+  font-weight: 250;
+  font-style: oblique;
+  text-align: center;
+  background-color: cadetblue;
+
+  
+}
+
+img {
+  border-width: 4px;
+  border-style: dotted;
+  border-color: blackS;
+  border-radius: 50%;
+  box-shadow: 30px 30px 30px 30px   rgb(4, 10, 4);
+  max-width: 25%
+}
+ 
+  .p1{
+    color: blue;
+  }
+  .p2{
+    color: green;
+  }
+  .p3{
+    color: grey;
+  }
